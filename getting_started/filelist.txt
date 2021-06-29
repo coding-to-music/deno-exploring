@@ -1,8 +1,8 @@
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/command_line_interface.md
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/debugging_your_code.md
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/first_steps.md
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/installation.md
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/permissions.md
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/setup_your_environment.md
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/typescript.md
-https://github.com/denoland/deno/blob/v1.11.3/docs/getting_started/webassembly.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/command_line_interface.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/debugging_your_code.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/first_steps.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/installation.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/permissions.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/setup_your_environment.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/typescript.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started/webassembly.md
