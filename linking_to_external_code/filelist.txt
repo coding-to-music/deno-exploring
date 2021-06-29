@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/linking_to_external_code/import_maps.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/linking_to_external_code/integrity_checking.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/linking_to_external_code/private.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/linking_to_external_code/proxies.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/linking_to_external_code/reloading_modules.md

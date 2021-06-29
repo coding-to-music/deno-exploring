@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/typescript/configuration.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/typescript/faqs.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/typescript/migration.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/typescript/overview.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/typescript/runtime.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/typescript/types.md

@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/bundler.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/compiler.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/dependency_inspector.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/documentation_generator.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/formatter.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/linter.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/repl.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools/script_installer.md

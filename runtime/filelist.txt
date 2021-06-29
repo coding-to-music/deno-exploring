@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/compiler_apis.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/location_api.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/permission_apis.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/program_lifecycle.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/stability.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/web_platform_apis.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/web_storage_api.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime/workers.md

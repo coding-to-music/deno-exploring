@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/embedding_deno.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/examples.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/getting_started.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/help.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/introduction.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/linking_to_external_code.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/runtime.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/standard_library.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/testing.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/toc.json
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/tools.md
+https://raw.githubusercontent.com/denoland/deno/v1.11.3/docs/typescript.md

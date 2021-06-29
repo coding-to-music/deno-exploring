@@ -1,0 +1,13 @@
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/fetch_data.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/file_server.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/file_system_events.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/hello_world.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/http_server.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/import_export.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/manage_dependencies.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/module_metadata.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/os_signals.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/read_write_files.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/subprocess.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/tcp_echo.md
+https://github.com/denoland/deno/blob/v1.11.3/docs/examples/unix_cat.md
